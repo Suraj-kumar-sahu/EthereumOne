@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\LENOVO\\Desktop\\Blockchain project\\EthereumOne\\contracts\\EthereumOne.sol": {
-      "lastModificationDate": 1671613209824,
-      "contentHash": "62d1a4b775ffd85cadc44a73f3e55281",
+      "lastModificationDate": 1671774427866,
+      "contentHash": "a4afb2b1707598cc7c1a9a8bb2153e42",
       "sourceName": "contracts/EthereumOne.sol",
       "solcConfig": {
         "version": "0.8.17",

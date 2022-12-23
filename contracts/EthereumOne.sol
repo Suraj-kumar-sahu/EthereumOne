@@ -9,7 +9,7 @@ contract EthereumOne is ERC721{
     uint public totalSupply ;
 
     struct Domain{
-        string name ;
+        string name ; 
         uint cost ;
         bool isOwned ;
     }

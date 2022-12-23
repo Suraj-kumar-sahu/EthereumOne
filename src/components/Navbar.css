@@ -1,0 +1,63 @@
+.navbar {
+    /* blurr effect */
+    background-color: rgba(255, 255, 255, .15); 
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(30px);
+
+    color: white;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.left{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 15px;
+    margin-top: 6px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#heading{
+    font-size: 2rem;
+    font-weight: 900;
+}
+
+#img{
+    height: 6rem;
+    width: 2.5rem;
+}
+
+.right{
+    margin-right: 60px;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+    background-color: black;
+    color:aliceblue;
+    font-size: 15px;
+    font-weight: 500;
+}

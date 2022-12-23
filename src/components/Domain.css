@@ -1,0 +1,22 @@
+.domain{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18rem;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.domain-name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18rem;
+}
+
+.buy-button{
+    background-color: rgb(88, 25, 61);
+    border-radius:20px ;
+    border: none;
+}
